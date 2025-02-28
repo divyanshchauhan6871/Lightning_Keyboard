@@ -1,0 +1,20 @@
+* {
+  overflow-x: hidden;
+}
+.keycontainer {
+}
+.h100 {
+  min-height: 100vh;
+}
+
+.h7 {
+  height: 7vh;
+}
+
+.bgdeepu {
+  background-color: #001524;
+}
+
+.buttons {
+  background-color: black;
+}
